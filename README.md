@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Привет! Я Вадим Назаров — Fullstack-разработчик
 
-<!--
-**NazarovVadim/NazarovVadim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Создаю веб-приложения от архитектуры до интерфейса, разрабатываю сложные Telegram-боты, интеграции с YCLIENTS и 1С, а также системы автоматизации бизнес-процессов.
 
-Here are some ideas to get you started:
+🌐 **Портфолио:** [nazarovvadim.github.io/portfolio](https://nazarovvadim.github.io/portfolio/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Стек технологий
+
+* **Frontend:** TypeScript, React, Vite, Tailwind CSS, Framer Motion, HTML5 / CSS3
+* **Backend:** Node.js, REST API, Webhooks, SQL (PostgreSQL, MySQL)
+* **Боты и интеграции:** Telegram Bot API, YCLIENTS API, 1С, фоновые Cron-парсеры, двусторонние чаты в боте
+* **Инфраструктура:** Docker, CI/CD (GitHub Actions), Git
+
+## 🚀 Избранные кейсы
+
+* **Telegram-бот клиники ProActive (YCLIENTS):** онлайн-запись пациентов на услуги, ежедневный фоновый парсинг визитов и утренняя рассылка напоминаний о сегодняшнем приёме.
+* **Медицинский консьерж-бот (NDA):** запись на консультации и двусторонний чат «пациент ↔ администратор» внутри единого бота с изолированными ветками переписки.
+* **Коммерческие веб-проекты:** «Соотечественники РФ», ЦНИИ КМ «Прометей», «Командор Авто», «Марки СНГ».
+
+## 📫 Контакты
+
+* ✈️ **Telegram:** [@VadimNazarov_Dev](https://t.me/VadimNazarov_Dev)
+* ✉️ **Email:** nazarovvadim802@gmail.com
